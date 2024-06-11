@@ -29,7 +29,7 @@ En este ejercicio, aprenderás a crear una página web replicando el diseño de 
 
 A continuación, puedes ver la imagen de referencia que debes replicar en tu diseño:
 
-![Imagen de Referencia](img/planet-skin.png)
+![Imagen de Referencia](img/planet-skin.png).
 
 ## Recursos Adicionales
 
